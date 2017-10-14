@@ -15,7 +15,7 @@
 *.patch  whitespace=-trailing-space eol=lf
 *.diff   whitespace=-trailing-space eol=lf
 
-# Standard to msysgit
+# Standard to msysgit test
 *.doc    diff=astextplain
 *.DOC    diff=astextplain
 *.docx   diff=astextplain
